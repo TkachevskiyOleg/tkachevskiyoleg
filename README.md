@@ -1,27 +1,58 @@
-![Header](https://github.com/TkachevskiyOleg/tkachevskiyoleg/blob/main/assets/2e1a15ac96cbe043468c4bfad79de5b4.gif)  
-
-## I am an experienced developer with skills in programming languages such as C#, C++, C, Java, JavaScript, Python, and I also know HTML and CSS. I have experience working with SQL and PostgreSQL databases. I can develop both frontend and backend parts of the program. I have experience creating applications for Android and Windows operating systems, as well as website development.
+![Header](https://github.com/TkachevskiyOleg/tkachevskiyoleg/blob/main/assets/2e1a15ac96cbe043468c4bfad79de5b4.gif)
 
 <table>
   <tr>
-    <td width="40%">
-      ![Header](https://github.com/...gif)
+    <!-- Текст про себе -->
+    <td width="60%" valign="top">
+      
+## 👨💻 Про мене  
+Я досвідчений розробник з навичками у **C#**, **C++**, **Java**, **JavaScript**, **Python**, **HTML/CSS**. Працюю з **SQL/PostgreSQL**, розробляю повноцінні додатки (від фронтенду до бекенду), створюю програми для **Android** та **Windows**, а також займаюсь веб-розробкою.
+
     </td>
-    <td width="60%">
-      ## Про мене...
+    
+    <!-- Графік мов -->
+    <td width="40%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats..." alt="Top Langs" />
-        <br />
-        <small>Languages used in my public repos 😊</small>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&exclude=html,css,scss,shell&hide_title=1&card_width=300" alt="Top Languages" />
+        <br/>
+        <small><i>Мови з моїх публічних репозиторіїв</i></small>
       </div>
     </td>
   </tr>
 </table>
 
-### Основні технології:
-- **JavaScript/TypeScript** (React, Node.js)
-- **C#** (ASP.NET)
-- **Java** (Android, Windows)
-- **Python** (Automation)
-- **C++** (Game Dev, System programming)
+---
 
+## 🛠 Основні технології
+
+### Мови програмування:
+<div align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</div>
+
+### Веб & Фреймворки:
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+</div>
+
+### Інструменти:
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</div>
+
+---
+
+## 📫 Зв'язок
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](посилання)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](посилання)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TkachevskiyOleg)
