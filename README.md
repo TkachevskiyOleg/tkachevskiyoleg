@@ -1,31 +1,35 @@
 # 👨💻 Tkachevskiy Oleg
 
-<div style="display: flex; align-items: flex-start; gap: 16px; width: 100%;">
+<div style="display: flex; align-items: flex-start; gap: 20px; width: 100%; margin-bottom: 20px;">
     <div style="flex: 1; max-width: 50%;">
         <img 
             src="https://github.com/TkachevskiyOleg/tkachevskiyoleg/blob/main/assets/2e1a15ac96cbe043468c4bfad79de5b4.gif" 
             alt="Coding GIF" 
-            style="width: 100%; height: 300px; object-fit: contain;"
+            style="width: 100%; height: 300px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
         />
     </div>
     <div style="flex: 1; max-width: 50%;">
         <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&card_width=300&card_height=200&exclude=html,css,scss"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&card_width=300&card_height=200&exclude=html,css,scss&theme=radical"
             alt="Top Languages"
-            style="width: 100%; height: 300px; object-fit: contain;"
+            style="width: 100%; height: 300px; object-fit: contain; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
         />
     </div>
 </div>
-      
+
 ## 🚀 Про мене  
-Я досвідчений розробник з навичками у **C#**, **C++**, **Java**, **JavaScript**, **Python**, **HTML/CSS**. Працюю з **SQL/PostgreSQL**, розробляю повноцінні додатки (від фронтенду до бекенду), створюю програми для **Android** та **Windows**, а також займаюсь веб-розробкою.
+<div style="background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%); padding: 25px; border-radius: 15px; margin-bottom: 25px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+📌 Я досвідчений розробник з навичками у **C#**, **C++**, **Java**, **JavaScript**, **Python**, **HTML/CSS**.  
+💼 Працюю з **SQL/PostgreSQL**, розробляю повноцінні додатки (від фронтенду до бекенду).  
+📱 Створюю програми для **Android** та **Windows**, а також займаюсь веб-розробкою.
+</div>
 
 ---
 
 ## 🛠 Технології та інструменти
 
-### **Мови програмування**:
-<div align="left">
+### **Мови програмування**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-bottom: 25px;">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -34,16 +38,16 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
-### **Веб & Фреймворки**:
-<div align="left">
+### **Веб & Фреймворки**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-bottom: 25px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </div>
 
-### **Інструменти**:
-<div align="left">
+### **Інструменти**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-bottom: 25px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -52,8 +56,34 @@
 ---
 
 ## 📫 Зв'язок
-<div align="left">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш_профіль)
-  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_нік)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TkachevskiyOleg)
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 30px;">
+  <a href="https://linkedin.com/in/ваш_профіль" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30"/>
+  </a>
+  <a href="https://t.me/ваш_нік" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:ваша_пошта@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
+
+<style>
+  body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    line-height: 1.7;
+    color: #2d3436;
+  }
+  h2 {
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 8px;
+    margin: 30px 0 20px 0;
+  }
+  img[alt="Coding GIF"], img[alt="Top Languages"] {
+    transition: transform 0.3s ease;
+  }
+  img[alt="Coding GIF"]:hover, img[alt="Top Languages"]:hover {
+    transform: scale(1.02);
+  }
+</style>
