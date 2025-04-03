@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-    <img src="https://github.com/TkachevskiyOleg/tkachevskiyoleg/blob/main/assets/2e1a15ac96cbe043468c4bfad79de5b4.gif" width="100%" alt="Coding GIF" />
-       </td>
-    <td width="60%">
+    <td width="50%" valign="top">
+      <img src="https://github.com/TkachevskiyOleg/tkachevskiyoleg/blob/main/assets/2e1a15ac96cbe043468c4bfad79de5b4.gif" width="100%" alt="Coding GIF" />
+    </td>
+    <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&exclude=html,css,scss,shell&hide_title=1&card_width=300" alt="Top Languages" />
     </td>
   </tr>
