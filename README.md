@@ -1,20 +1,21 @@
 # 👨💻 Tkachevskiy Oleg
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github.com/TkachevskiyOleg/tkachevskiyoleg/blob/main/assets/2e1a15ac96cbe043468c4bfad79de5b4.gif" width="100%" height="300px" alt="Coding GIF" />
-    </td>
-    <td width="50%" valign="top">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&card_width=300&card_height=200&exclude=html,css,scss" 
-        alt="Top Languages" 
-        width="150%" 
-        height="400px" 
-      />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; gap: 16px; width: 100%;">
+    <div style="flex: 1; max-width: 50%;">
+        <img 
+            src="https://github.com/TkachevskiyOleg/tkachevskiyoleg/blob/main/assets/2e1a15ac96cbe043468c4bfad79de5b4.gif" 
+            alt="Coding GIF" 
+            style="width: 100%; height: 300px; object-fit: contain;"
+        />
+    </div>
+    <div style="flex: 1; max-width: 50%;">
+        <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&card_width=300&card_height=200&exclude=html,css,scss"
+            alt="Top Languages"
+            style="width: 100%; height: 300px; object-fit: contain;"
+        />
+    </div>
+</div>
       
 ## 🚀 Про мене  
 Я досвідчений розробник з навичками у **C#**, **C++**, **Java**, **JavaScript**, **Python**, **HTML/CSS**. Працюю з **SQL/PostgreSQL**, розробляю повноцінні додатки (від фронтенду до бекенду), створюю програми для **Android** та **Windows**, а також займаюсь веб-розробкою.
