@@ -1,27 +1,21 @@
 # 👨💻 Tkachevskiy Oleg
 
-<div style="display: flex; align-items: flex-start; gap: 20px; width: 100%; margin-bottom: 20px; ">
-    <div style="flex: 1; max-width: 50%; align-center;">
-        <img 
-            src="https://github.com/TkachevskiyOleg/tkachevskiyoleg/blob/main/assets/2e1a15ac96cbe043468c4bfad79de5b4.gif" 
-            alt="Coding GIF" 
-            style="width: 120%; height: 300px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-        />
-    </div>
-    <div style="flex: 1; max-width: 50%;">
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&card_width=300&card_height=200&exclude=html,css,scss&theme=radical"
-            alt="Top Languages"
-            style="width: 120%; height: 300px; object-fit: contain; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-        />
-    </div>
+<div align="center">
+  <img src="https://github.com/TkachevskiyOleg/tkachevskiyoleg/blob/main/assets/2e1a15ac96cbe043468c4bfad79de5b4.gif" width="80%" alt="Coding GIF" />
 </div>
-
+    
 ## 🚀 Про мене  
 📌 Я досвідчений розробник з навичками у **C#**, **C++**, **Java**, **JavaScript**, **Python**, **HTML/CSS**.  
 💼 Працюю з **SQL/PostgreSQL**, розробляю повноцінні додатки (від фронтенду до бекенду).  
 📱 Створюю програми для **Android** та **Windows**, а також займаюсь веб-розробкою.
 
+<div style="flex: 1; max-width: 50%;">
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&card_width=300&card_height=200&exclude=html,css,scss&theme=radical"
+        alt="Top Languages"
+        style="width: 120%; height: 300px; object-fit: contain; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+        />
+    </div>
 
 ---
 
