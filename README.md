@@ -10,7 +10,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&card_width=300&card_height=200&exclude=html,css,scss" 
         alt="Top Languages" 
         width="100%" 
-        height="300px" 
+        height="500px" 
       />
     </td>
   </tr>
