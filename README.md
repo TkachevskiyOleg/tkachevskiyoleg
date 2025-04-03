@@ -18,11 +18,10 @@
 </div>
 
 ## 🚀 Про мене  
-<div style="background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%); padding: 25px; border-radius: 15px; margin-bottom: 25px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
 📌 Я досвідчений розробник з навичками у **C#**, **C++**, **Java**, **JavaScript**, **Python**, **HTML/CSS**.  
 💼 Працюю з **SQL/PostgreSQL**, розробляю повноцінні додатки (від фронтенду до бекенду).  
 📱 Створюю програми для **Android** та **Windows**, а також займаюсь веб-розробкою.
-</div>
+
 
 ---
 
@@ -67,7 +66,6 @@
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
 <style>
   body {
     font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
