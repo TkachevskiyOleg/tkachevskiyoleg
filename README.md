@@ -1,31 +1,33 @@
-![Header](https://github.com/TkachevskiyOleg/tkachevskiyoleg/blob/main/assets/2e1a15ac96cbe043468c4bfad79de5b4.gif)
+# 👨💻 Tkachevskiy Oleg
 
 <table>
   <tr>
-    <!-- Текст про себе -->
     <td width="60%" valign="top">
       
-## 👨💻 Про мене  
+## 🚀 Про мене  
 Я досвідчений розробник з навичками у **C#**, **C++**, **Java**, **JavaScript**, **Python**, **HTML/CSS**. Працюю з **SQL/PostgreSQL**, розробляю повноцінні додатки (від фронтенду до бекенду), створюю програми для **Android** та **Windows**, а також займаюсь веб-розробкою.
 
     </td>
-    
-    <!-- Графік мов -->
-    <td width="40%" valign="top">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&exclude=html,css,scss,shell&hide_title=1&card_width=300" alt="Top Languages" />
-        <br/>
-        <small><i>Мови з моїх публічних репозиторіїв</i></small>
-      </div>
+    <td width="40%">
+      <img src="https://github.com/TkachevskiyOleg/tkachevskiyoleg/blob/main/assets/2e1a15ac96cbe043468c4bfad79de5b4.gif" width="100%" alt="Coding GIF" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠 Основні технології
+## 📊 Статистика мов
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&exclude=html,css,scss,shell&hide_title=1&card_width=300" alt="Top Languages" />
+  <br/>
+  <small><i>Мови з моїх публічних репозиторіїв (без шаблонів/конфігів)</i></small>
+</div>
 
-### Мови програмування:
+---
+
+## 🛠 Технології та інструменти
+
+### **Мови програмування**:
 <div align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
@@ -35,7 +37,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
-### Веб & Фреймворки:
+### **Веб & Фреймворки**:
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -43,7 +45,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </div>
 
-### Інструменти:
+### **Інструменти**:
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
@@ -53,6 +55,8 @@
 ---
 
 ## 📫 Зв'язок
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](посилання)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](посилання)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TkachevskiyOleg)
+<div align="left">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш_профіль)
+  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_нік)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TkachevskiyOleg)
+</div>
