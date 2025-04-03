@@ -5,7 +5,7 @@
     <td width="60%" valign="top">
     <img src="https://github.com/TkachevskiyOleg/tkachevskiyoleg/blob/main/assets/2e1a15ac96cbe043468c4bfad79de5b4.gif" width="100%" alt="Coding GIF" />
        </td>
-    <td width="40%">
+    <td width="60%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&exclude=html,css,scss,shell&hide_title=1&card_width=300" alt="Top Languages" />
     </td>
   </tr>
@@ -13,16 +13,6 @@
       
 ## 🚀 Про мене  
 Я досвідчений розробник з навичками у **C#**, **C++**, **Java**, **JavaScript**, **Python**, **HTML/CSS**. Працюю з **SQL/PostgreSQL**, розробляю повноцінні додатки (від фронтенду до бекенду), створюю програми для **Android** та **Windows**, а також займаюсь веб-розробкою.
-
-
----
-
-## 📊 Статистика мов
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&exclude=html,css,scss,shell&hide_title=1&card_width=300" alt="Top Languages" />
-  <br/>
-  <small><i>Мови з моїх публічних репозиторіїв (без шаблонів/конфігів)</i></small>
-</div>
 
 ---
 
