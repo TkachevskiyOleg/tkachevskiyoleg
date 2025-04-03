@@ -12,7 +12,7 @@
         <img
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&card_width=300&card_height=200&exclude=html,css,scss&theme=radical"
             alt="Top Languages"
-            style="width: 100%; height: 300px; object-fit: contain; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+            style="width: 120%; height: 300px; object-fit: contain; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
         />
     </div>
 </div>
@@ -66,22 +66,3 @@
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-<style>
-  body {
-    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-    line-height: 1.7;
-    color: #2d3436;
-  }
-  h2 {
-    color: #2c3e50;
-    border-bottom: 3px solid #3498db;
-    padding-bottom: 8px;
-    margin: 30px 0 20px 0;
-  }
-  img[alt="Coding GIF"], img[alt="Top Languages"] {
-    transition: transform 0.3s ease;
-  }
-  img[alt="Coding GIF"]:hover, img[alt="Top Languages"]:hover {
-    transform: scale(1.02);
-  }
-</style>
