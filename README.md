@@ -1,11 +1,11 @@
 # 👨💻 Tkachevskiy Oleg
 
-<div style="display: flex; align-items: flex-start; gap: 20px; width: 100%; margin-bottom: 20px;">
+<div style="display: flex; align-center: flex-start; gap: 20px; width: 100%; margin-bottom: 20px; ">
     <div style="flex: 1; max-width: 50%;">
         <img 
             src="https://github.com/TkachevskiyOleg/tkachevskiyoleg/blob/main/assets/2e1a15ac96cbe043468c4bfad79de5b4.gif" 
             alt="Coding GIF" 
-            style="width: 100%; height: 300px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+            style="width: 120%; height: 300px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
         />
     </div>
     <div style="flex: 1; max-width: 50%;">
