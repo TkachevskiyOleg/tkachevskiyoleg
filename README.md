@@ -1,4 +1,4 @@
-# 👨💻 Tkachevskiy Oleg
+# 👨 💻 Tkachevskiy Oleg
 
 <div align="center">
   <img src="https://github.com/TkachevskiyOleg/tkachevskiyoleg/blob/main/assets/2e1a15ac96cbe043468c4bfad79de5b4.gif" width="80%" alt="Coding GIF" />
