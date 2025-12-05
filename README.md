@@ -9,14 +9,6 @@
 💼 Працюю з **SQL/PostgreSQL**, розробляю повноцінні додатки (від фронтенду до бекенду).  
 📱 Створюю програми для **Android** та **Windows**, а також займаюсь веб-розробкою.
 
-<div style="flex: 1; max-width: 50%;">
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TkachevskiyOleg&layout=compact&card_width=300&card_height=200&exclude=html,css,scss&theme=radical"
-        alt="Top Languages"
-        style="width: 120%; height: 300px; object-fit: contain; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-        />
-    </div>
-
 ---
 
 ## 🛠 Технології та інструменти
